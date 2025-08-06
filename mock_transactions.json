@@ -1,0 +1,82 @@
+[
+  {
+    "date": "2025-07-20",
+    "description": "Swiggy Order #5678",
+    "amount": 377,
+    "type": "debit",
+    "category": "Food Delivery",
+    "payment_method": "UPI"
+  },
+  {
+    "date": "2025-07-21",
+    "description": "Zomato - Pizza Hut",
+    "amount": 498,
+    "type": "debit",
+    "category": "Food Delivery",
+    "payment_method": "UPI"
+  },
+  {
+    "date": "2025-07-23",
+    "description": "Vijaya Coffee House",
+    "amount": 110,
+    "type": "debit",
+    "category": "Coffee",
+    "payment_method": "Card"
+  },
+  {
+    "date": "2025-07-25",
+    "description": "Amazon India",
+    "amount": 1399,
+    "type": "debit",
+    "category": "Shopping",
+    "payment_method": "Card"
+  },
+  {
+    "date": "2025-07-27",
+    "description": "CRED CashBack",
+    "amount": 200,
+    "type": "credit",
+    "category": "Income",
+    "payment_method": "Bank"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "ITC Welcome Hotel",
+    "amount": 2590,
+    "type": "debit",
+    "category": "Going Out",
+    "payment_method": "Card"
+  },
+  {
+    "date": "2025-07-28",
+    "description": "Google Pay - Monthly Salary",
+    "amount": 35000,
+    "type": "credit",
+    "category": "Income",
+    "payment_method": "UPI"
+  },
+  {
+    "date": "2025-07-29",
+    "description": "Dunzo - Cigs & More",
+    "amount": 286,
+    "type": "debit",
+    "category": "Sutta",
+    "payment_method": "UPI"
+  },
+  {
+    "date": "2025-08-01",
+    "description": "Netflix Subscription",
+    "amount": 499,
+    "type": "debit",
+    "category": "Streaming",
+    "payment_method": "Card"
+  },
+  {
+    "date": "2025-08-04",
+    "description": "Freecharge - Mobile Recharge",
+    "amount": 249,
+    "type": "debit",
+    "category": "Utilities",
+    "payment_method": "UPI"
+  }
+]
